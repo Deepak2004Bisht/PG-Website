@@ -14,5 +14,5 @@ Developed a responsive and user-friendly website to help users find paying guest
 To provide an easy-to-use platform for students and professionals to find suitable PG accommodations while demonstrating expertise in frontend development.<br>
 <h2>Feel free to visit the website</h2>
 <h3>PG Finder Website link here:-
-👉<a href="https://deepakbisht.netlify.app/">Link</a>
+👉<a href="https://pgfinderwebsite.netlify.app/">Link</a>
 </h3>
